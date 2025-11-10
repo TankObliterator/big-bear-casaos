@@ -57,7 +57,7 @@ x-casaos:
   # Author of this particular configuration
   author: BigBearTechWorld
   # Icon URL for the application
-  icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/convertx/logo.png
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/convertx.png
   # Thumbnail image for the application (if any)
   thumbnail: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/convertx/thumbnail.png
   # Installation tips
