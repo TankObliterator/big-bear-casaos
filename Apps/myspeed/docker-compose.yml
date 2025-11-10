@@ -40,7 +40,7 @@ x-casaos:
   # Author of this particular configuration
   author: BigBearTechWorld
   # Icon URL for the application
-  icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/myspeed/logo.png
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/myspeed.png
   # Thumbnail image for the application (if any)
   thumbnail: ""
   # Title for the application
