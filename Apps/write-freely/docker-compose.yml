@@ -69,7 +69,7 @@ x-casaos:
   # Author of this particular configuration
   author: BigBearTechWorld
   # Icon URL for the application
-  icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/write-freely/logo.png
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/writefreely.png
   # Thumbnail image for the application (if any)
   thumbnail: ""
   # Installation tips
