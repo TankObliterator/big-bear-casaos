@@ -99,7 +99,7 @@ x-casaos:
   # Author of this particular configuration
   author: RayLabs HQ
   # Icon URL for the application
-  icon: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/gitea-mirror/logo-new.png
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/gitea-mirror.png
   # Thumbnail image for the application (if any)
   thumbnail: https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/gitea-mirror/1.png
   # Installation tips
